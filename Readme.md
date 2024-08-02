@@ -31,6 +31,6 @@ Setup:
 1. clone the repository using "git clone https://github.com/your-username/tic-tac-toe.git"
 
 2. Navigate to the project directory
-cd tic-tac-toe
+"cd tic-tac-toe"
 
 3. Open the index.html file in your preferred web browser.
